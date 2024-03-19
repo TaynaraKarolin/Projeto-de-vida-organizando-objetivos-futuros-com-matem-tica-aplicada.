@@ -1,0 +1,2 @@
+# Projeto-de-vida-organizando-objetivos-futuros-com-matem-tica-aplicada.
+Desenvolvido a partir do curso do Alura. São objetivos principais: Criar site com as linguagens de JavaScript, HTML e CSS; Aplicar conceitos matemáticos para manipular e converter unidades de tempo; Manipular a linguagem JavaScript para criar sites dinâmicos; Utilizar conceitos de mobile-first para desenvolver site responsivo.
